@@ -2,17 +2,17 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By ikyy
+	* Follow https://github.com/kytaekxd
+	* Whatsapp :
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner atau lebih
+global.owner = ['6283820720742'] //['628','628'] 2 owner atau lebih
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'kytaekxd'
+global.botname = 'ikyy Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
@@ -37,14 +37,14 @@ global.my = {
 
 global.limit = {
 	free: 20,
-	premium: 999,
-	vip: 9999
+	premium: 9999999999,
+	vip: 9999999
 }
 
 global.money = {
 	free: 10000,
-	premium: 1000000,
-	vip: 10000000
+	premium: 1000000000000,
+	vip: 10000000000
 }
 
 global.mess = {
